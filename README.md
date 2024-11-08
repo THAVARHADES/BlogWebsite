@@ -1,4 +1,4 @@
-# Blogging Website Version 2.0
+# Blogging Website
 
 _For **Hacktoberfest** please refer [Contributing.md](https://github.com/Prashant0664/Blog-website/blob/master/CONTRIBUTING.md)_ <br/>
 
